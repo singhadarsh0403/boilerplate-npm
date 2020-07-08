@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"Adarsh",
 	"description":"This is a free code camp project",
+	"keywords":["freecodecamp","repo","javascript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
